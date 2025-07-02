@@ -1,0 +1,5 @@
+Expresso 250 Coffee
+Americano 300 Coffee
+Mocha 400 Coffee
+Brownie 250 Cakes
+Chaiye 270 Tea
